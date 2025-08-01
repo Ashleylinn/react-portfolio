@@ -35,10 +35,10 @@
   }
   
   .skill-item.activeSkill:nth-child(1) {
-    background: linear-gradient(270deg, #ffffff00, rgb(104, 27, 159) 70%);
+    background: linear-gradient(270deg, #ffffff00, rgb(114, 21, 161) 70%);
   }
   .skill-item.activeSkill:nth-child(2) {
-    background: linear-gradient(270deg, #ffffff00, rgb(27, 46, 153) 70%);
+    background: linear-gradient(270deg, #ffffff00, rgb(101, 35, 217) 70%);
   }
   
   .skill-icon {
@@ -86,10 +86,10 @@
 }
   
   .filled {
-    background: linear-gradient(180deg, #236473, #25afce, #7ce7ff);
+    background: linear-gradient(180deg, #7e2878, #da5dd4, #d2a6d3);
   }
   .unfilled {
-    background: linear-gradient(180deg, #1c8298, #074654, #074654);
+    background: linear-gradient(180deg, #3e2c3e, #7c597d, #916093);
   }
 
   

@@ -11,6 +11,7 @@ const projects = {
         <p>
         The Eco Tracker App is an Android-based application that allows users to monitor their daily carbon emissions in real time 
         by logging activities like transportation and energy use.
+
         </p>
         </>
         ),
