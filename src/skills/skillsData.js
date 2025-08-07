@@ -43,7 +43,7 @@ const skills = {
             level: 4,
         },
         {
-            title: "MongoDB",
+            title: "Docker",
             level: 3,
         },
         {
@@ -55,8 +55,8 @@ const skills = {
             level: 3,
         },
         {
-            title: "SQL",
-            level: 5,
+            title: "REST API",
+            level: 4,
         },
         {
             title: "Python",
