@@ -48,7 +48,7 @@ const skills = {
         },
         {
             title: "Git",
-            level: 4,
+            level: 5,
         },
         {
             title: "Java",
