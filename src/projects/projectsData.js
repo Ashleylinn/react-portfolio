@@ -13,7 +13,7 @@ const projects = {
         </p>
         </>
         ),
-        github: "https://github.com/Ashleylinn/Plantze",
+        github: "https://github.com/UTSC-CSCC01-Software-Engineering-I/term-group-project-c01s25-project-my-dormstore",
         demo: "https://youtu.be/-XxJuKaANcw",
     },
     2: {
