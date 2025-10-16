@@ -5,11 +5,7 @@ const subheadingsData = {
             content: (
                 <>
                     <p>
-                    With a background in Information Technology and Business, 
-                    I thrive at the intersection of data, strategy, and innovation. 
-                    I have experience in marketing, data analysis, and frontend development, 
-                    with an interest in UI/UX design. I enjoy creating intuitive and engaging user experiences while ensuring seamless interactions between users and technology.
-                    </p>
+                    I combine my background in Information Technology and Business to create data-driven, user-focused solutions. With experience in frontend development and data analysis, I aim to build clean, efficient, and intuitive applications that balance technical precision with great user experience.                    </p>
                 </>
             ),
         },
@@ -23,7 +19,7 @@ const subheadingsData = {
                         University of Toronto
                     </p>
                     <p>
-                        Specialization in Management and Information Technology
+                        Specialization in Information Technology and Management
                     </p>
                 </>
             ),
@@ -35,9 +31,7 @@ const subheadingsData = {
             content: (
                 <>
                     <p>
-                    I'm fascinated by how people interact with technology—what makes an interface intuitive, what builds trust, and how design 
-                    influences behavior. I love diving into UI/UX principles, experimenting with layouts, and observing how small changes affect user 
-                    engagement. 
+                    I’m fascinated by how people interact with technology and what makes digital experiences intuitive and trustworthy. I enjoy exploring UI/UX principles, experimenting with design layouts, and understanding how small details can influence user engagement and behavior.
                     </p>
                 </>
             ),
