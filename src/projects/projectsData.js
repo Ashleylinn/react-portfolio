@@ -4,7 +4,7 @@ import projectThree from "../assets/personal.png";
 
 const projects = {
     1: {
-        title: "My Dorm Store Web Page",
+        title: "MyDormStore Web Page",
         image: projectOne,
         description: (
         <>
