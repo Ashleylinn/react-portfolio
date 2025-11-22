@@ -1,6 +1,6 @@
 import projectOne from "../assets/mydormstore_image.png";
 import projectTwo from "../assets/planetze.png";
-import projectThree from "../assets/personal.png";
+import projectThree from "../assets/me.png";
 
 const projects = {
     1: {
@@ -41,7 +41,7 @@ const projects = {
         </>
         ),
         github: "https://github.com",
-        demo: "https://myywebsitee.netlify.app/",
+        demo: "https://ashleyylin.com",
     },
 };
 
